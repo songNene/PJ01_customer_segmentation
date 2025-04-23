@@ -1,4 +1,5 @@
-## PJ01_customer_segmentation 모두의 연구소 첫번째 프로잭트 - 고객의 세분화
+## PJ01_customer_segmentation 
+모두의 연구소 첫번째 프로잭트 - 고객의 세분화
 ---
 
 #### <span style="background-color:#FFE6E6"> Introductuon </span>
