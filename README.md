@@ -12,17 +12,17 @@ customer_segmentation 프로잭트에서는 우선 빅쿼리를 이용하여 고
 <br/>
 ### 💻 Tech Stack
 <br/>
-  - BigQuery
+  * BigQuery<br/>
 <br/>
 <br/>
 <br/>
 ### ✏️ Core Methods
 <br/>
-  * 전처리
-  * PRM 스코어
-  * Product Diversity in Purchases (제품의 다양성)
-  * Average Purchase Cycle (평균 구매 주기)
-  * Purchase Cancellation Tendencies (구매 취소 경향성)
+  * 전처리<br/>
+  * PRM 스코어<br/>
+  * Product Diversity in Purchases (제품의 다양성)<br/>
+  * Average Purchase Cycle (평균 구매 주기)<br/>
+  * Purchase Cancellation Tendencies (구매 취소 경향성)<br/>
 <br/>
 <br/>
 <br/>
